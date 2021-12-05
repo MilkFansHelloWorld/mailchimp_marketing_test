@@ -1,0 +1,19 @@
+{
+    "name": "theo/mailchimp_marketing_test",
+    "type": "project",
+    "require": {
+        "mailchimp/marketing": "^3.0",
+        "symfony/var-dumper": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Theo\\MailchimpMarketingTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MilkFansHelloWorld",
+            "email": "31027215+MilkFansHelloWorld@users.noreply.github.com"
+        }
+    ]
+}
